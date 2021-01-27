@@ -1,0 +1,11 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-repo
+  description: Description 😀 with emojis 🤖
+  annotations:
+    github.com/project-slug: tylermarien/test-repo
+spec:
+  type: other
+  lifecycle: unknown
