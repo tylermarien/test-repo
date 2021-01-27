@@ -1,0 +1,9 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-repo
+  description: RGVzY3JpcHRpb24g8J+YgCB3aXRoIGVtb2ppcyDwn6SW
+spec:
+  lifecycle: production
+  type: other
