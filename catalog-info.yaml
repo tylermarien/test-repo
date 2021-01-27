@@ -6,3 +6,4 @@ metadata:
 spec:
   lifecycle: production
   type: service
+  owner: test-team
