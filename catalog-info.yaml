@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: test-service
-  description: 123
+  name: test-service qweqwe qw eqw 123
+  description: qweqweqwewq
 spec:
   lifecycle: production
   type: service
