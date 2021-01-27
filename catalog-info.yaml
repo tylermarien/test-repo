@@ -1,8 +1,8 @@
-- apiVersion: backstage.io/v1alpha1
-  kind: Component
-  metadata:
-    name: test-service
-    description: Description with emojis
-  spec:
-    lifecycle: production
-    type: service
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-service
+  description: Description with emojis
+spec:
+  lifecycle: production
+  type: service
